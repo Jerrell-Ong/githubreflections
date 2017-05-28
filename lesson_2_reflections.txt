@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You can run git commands in it, otherwise the functions provided bit Git cannot be used. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is an intermediate zone for files I'm about to add to the repository. It allows me to add files in sequence and remove them without having done a commit in the repository. 
