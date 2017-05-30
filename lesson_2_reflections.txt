@@ -17,3 +17,7 @@ New experimental features or different languages. Basically developments of code
 How do the diagrams help you visualize the branch structure?
 
 They give an overview of which commits are the most recent, which are reachable and what each branch does. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The changes incorporated by both branches are implemented in the new merged branch. This is represented on a diagram by two lines recombining because there is only one resultant branch.
