@@ -21,3 +21,7 @@ They give an overview of which commits are the most recent, which are reachable 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The changes incorporated by both branches are implemented in the new merged branch. This is represented on a diagram by two lines recombining because there is only one resultant branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Its convenient when automatic merging is successfully done, but its rather tedious to go through the conflicts one by one when this fails. 
