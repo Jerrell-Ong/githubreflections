@@ -13,3 +13,7 @@ Forks are exclusively for use on GitHub's servers, clones are used when the dest
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It can be accessed offline. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Manually send files back and forth or work with files exclusively on the cloud. It would be much more difficult to organise edits systematically, but requires less technique/knowledge in using a new tool e.g. Git.
